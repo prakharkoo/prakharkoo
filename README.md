@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prakharkoo
 - 👀 I’m interested in full-stack developement
-- 🌱 I’m currently learning React/Redux as frontend with Spring FW as backend.
+- 🌱 Working as a front-end developer at Koo India hands-on with React/Next with Tailwind CSS framework.
 - 📫 How to reach me : Send an email to sriprakhar2@gmail.com.
 
 <!---
